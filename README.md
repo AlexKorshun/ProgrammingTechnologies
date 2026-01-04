@@ -28,4 +28,13 @@ friend change)
 
 <img width="1252" height="857" alt="Screenshot From 2026-01-04 21-54-26" src="https://github.com/user-attachments/assets/ccb621d9-75b8-4ef0-987b-6e76ff6e45f5" />
 <img width="806" height="326" alt="Screenshot From 2026-01-04 22-00-30" src="https://github.com/user-attachments/assets/96d6077b-e118-40f8-a5a5-11dd6aaa79b5" />
+<img width="1110" height="322" alt="Screenshot From 2026-01-04 22-03-47" src="https://github.com/user-attachments/assets/239dd1d6-81e6-40a6-8a3d-f20db2017a8e" />
+<img width="1110" height="322" alt="Screenshot From 2026-01-04 22-04-15" src="https://github.com/user-attachments/assets/d07e0c89-af7e-4a73-87b8-912288715323" />
+
+<img width="701" height="404" alt="Screenshot From 2026-01-04 22-06-02" src="https://github.com/user-attachments/assets/469be6d5-b601-4a01-b1bd-a8d6ee47fa5e" />
+<img width="913" height="629" alt="Screenshot From 2026-01-04 22-09-13" src="https://github.com/user-attachments/assets/46389b29-53d3-4901-9823-529c3f428022" />
+
+<img width="955" height="397" alt="Screenshot From 2026-01-04 22-12-41" src="https://github.com/user-attachments/assets/ccdec95d-d86b-4ba3-b25d-79547c81691a" />
+<img width="928" height="547" alt="Screenshot From 2026-01-04 22-13-39" src="https://github.com/user-attachments/assets/baa20aad-4861-4e04-b9c3-f5202b5ea460" />
+
 
