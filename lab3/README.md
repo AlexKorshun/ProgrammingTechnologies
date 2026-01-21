@@ -3,4 +3,5 @@
 диск сборку. Посчитать продолжительность.
 
 Итоговая UML диаграмма:
+
 <img width="607" height="741" alt="Снимок экрана 2026-01-07 145953" src="https://github.com/user-attachments/assets/feb73453-1d68-41eb-9ec4-938457154add" />
